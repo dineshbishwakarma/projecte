@@ -1,3 +1,3 @@
 # projecte README
 
-Fun wit tracking branches
+Fun with tracking branches
